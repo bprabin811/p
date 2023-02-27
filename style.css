@@ -118,13 +118,13 @@ footer p{
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 10px 0;
+  margin: 25px 0;
 }
 
 .social a{
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: var(--color-white);
   background-color: var(--color-pink);
-  padding: 8px 80px;
+  padding: 5px 60px;
   border-radius: 20px;
 }
